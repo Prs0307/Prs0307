@@ -3,14 +3,16 @@
   </br>
   </br>
 - 👀 I’m interested in coding And Exploring Web developement
+- </br>
 - <img align="right" alt="Prince" width="400" src="file:///C:/Users/prince%20sahu/Downloads/runweb.gif">
+- </br>
 - 🌱 I’m currently learning Full Stack Web Developement
-- 
+- </br>
 - 💞️ I’m looking to collaborate on Web Develpement Project
-- 
+- </br>
 - 📫 How to reach me prince0307@gmail.com
 
--
+-</br>
 
 <!---
 Prs0307/Prs0307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
