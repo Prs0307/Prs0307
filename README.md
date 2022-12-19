@@ -4,7 +4,7 @@
 - 👀 I’m interested in coding And Exploring Web developement
 - </br>
 - 🌱 I’m currently learning Full Stack Web Developement</br>
--  ![runweb](https://user-images.githubusercontent.com/91106662/208358837-cb09eff6-2eba-42b9-b42a-ff78f39aaded.gif)
+
 
 - 👀 I’m interested in coding And Exploring Web developement
 - </br>
