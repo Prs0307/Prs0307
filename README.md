@@ -14,9 +14,8 @@
 - </br>
 - 💞️ I’m looking to collaborate on Web Develpement Project
 - </br>
-- 📫 How to reach me prince0307@gmail.com
-
--</br>
+- 📫 How to reach me **prince0307@gmail.com**
+</br>
 
 <!---
 Prs0307/Prs0307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
