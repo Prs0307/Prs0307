@@ -1,4 +1,4 @@
-  #                                 👋 Hi, I’m Prince (@Prs0307)
+  #            <h3 align="center">                     👋 Hi, I’m Prince (@Prs0307)</h3>
   >## <h3 align="center">A passionate Web Developer</h3>
 - 👀 I’m interested in coding And Exploring Web developement
 - <img align="right" alt="Prince" width="400" src="file:///C:/Users/prince%20sahu/Downloads/runweb.gif">
