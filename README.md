@@ -3,9 +3,7 @@
   </br>
   </br>
 - 👀 I’m interested in coding And Exploring Web developement
-- </br>
 - <img align="right" alt="Prince" width="400" src="file:///C:/Users/prince%20sahu/Downloads/runweb.gif">
-- </br>
 - 🌱 I’m currently learning Full Stack Web Developement
 - </br>
 - 💞️ I’m looking to collaborate on Web Develpement Project
