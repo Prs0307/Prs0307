@@ -1,5 +1,5 @@
   #                                 👋 Hi, I’m Prince (@Prs0307)
-  >##  A Passionate  Web developer
+  >## <h3 align="center">A passionate Web Developer</h3>
 - 👀 I’m interested in coding And Exploring Web developement
 - <img align="right" alt="Prince" width="400" src="file:///C:/Users/prince%20sahu/Downloads/runweb.gif">
 - 🌱 I’m currently learning Full Stack Web Developement
