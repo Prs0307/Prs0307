@@ -1,8 +1,9 @@
   #            <h3 align="center">                     👋 Hi, I’m Prince (@Prs0307)</h3>
   >## <h3 align="center">A passionate Web Developer</h3>
   </br>
-<p align="left"> <img src="file:///C:/Users/prince%20sahu/Downloads/runweb.gif" alt="prs" /> </p>
-  
+![image](https://user-images.githubusercontent.com/91106662/208357614-420a39d2-5e61-4727-a66b-eacf30e83b93.png)
+
+
   </br>
 - 👀 I’m interested in coding And Exploring Web developement
 - </br>
