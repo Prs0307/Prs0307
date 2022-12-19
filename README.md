@@ -1,7 +1,7 @@
   #                                 👋 Hi, I’m Prince (@Prs0307)
   >##  A Passionate  Web developer
 - 👀 I’m interested in coding And Exploring Web developement
-- 
+- <img align="right" alt="ayushi-kosta" width="400" src="file:///C:/Users/prince%20sahu/Downloads/runweb.gif">
 - 🌱 I’m currently learning Full Stack Web Developement
 - 
 - 💞️ I’m looking to collaborate on Web Develpement Project
