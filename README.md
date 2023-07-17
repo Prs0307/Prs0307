@@ -2,6 +2,7 @@
   </br>
   </br>
   <h3 align="center"> A passionate Web Developer</h3></br>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prs0307&label=Profile%20views&color=0e75b6&style=flat" alt="Prince Sahu" /> </p>
   
   
   
@@ -14,11 +15,11 @@
   
 - 🌱 I’m currently learning Full Stack Web Developement</br>
 - 
-- 👀 I’m interested in coding And Exploring Web developement
+- 👀 I’m interested in coding And Exploring Web development
 - </br>
-- 💞️ I’m looking to collaborate on Web Develpement Project
+- 💞️ I’m looking to collaborate on Web Development Project
 - </br>
-- 📫 How to reach me **prince0307@gmail.com** **princesahu169@gmail.com** 
+- 📫 How to reach me **princesahu169@gmail.com** 
 </br>
 <br>
 <p align="left">
