@@ -1,88 +1,84 @@
-  #            <h3 align="center">                     👋 Hi, I’m Prince (@Prs0307)</h3>
-
-  <h3 align="center"> A passionate Web Developer</h3></br>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prs0307&label=Profile%20views&color=0e75b6&style=flat" alt="Prince Sahu" /> </p>
-  
-  
-  
-  
-
-  
-  ![runweb](https://user-images.githubusercontent.com/91106662/209208806-102c537b-a29b-40eb-905a-91bf387cf67e.gif)
-  <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/milligram@1.5.1/dist/milligram.min.css">
-</head>
-
-## Here are my interests:
-
-
-
-  
-  <div color="pink">
-    
-- 🌱 I’m currently learning Full Stack Web Developement</br>
- 
-- 👀 I’m interested in coding And Exploring Web development
- 
-- 💞️ I’m looking to collaborate on Web Development Project
- 
-- 📫 How to reach me **princesahu169@gmail.com**  (✉️)
-  </div>
-</br>
-<p align="left">
-
-[![Prince's Github Stats](https://github-readme-stats.vercel.app/api?username=Prs0307&show_icons=true&theme=radical)](https://github.com/Prs0307/github-readme-stats)
-
-
-
-
+<h1 align="center">👋 Hi, I’m Prince (@Prs0307)</h1>
+<p align="center">
+  <strong>A passionate Full Stack Web Developer from India 🚀</strong>
 </p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prs0307&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Prince Sahu" />
+</p>
 
-<div align="right">
+---
 
-![runweb](https://api.githubtrends.io/user/svg/Prs0307/repos?time_range=one_year&theme=dark)
-<--![runweb](https://api.githubtrends.io/user/svg/Prs0307/langs?time_range=one_year&theme=dark)-->
-</div>
+## 💫 About Me
 
-###
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p>🎯 <strong>Current Focus:</strong> Mastering Full Stack Web Development while deep-diving into <b>Problem Solving</b> and <b>System Design</b>.</p>
+      <p>👀 <strong>Interests:</strong> Advanced application architecture, competitive coding, and exploring scalable ecosystem designs.</p>
+      <p>🤝 <strong>Collaboration:</strong> Looking to team up on innovative, high-performance Web Development projects.</p>
+      <p>📫 <strong>Get in Touch:</strong> Drop me an email at <a href="mailto:princesahu169@gmail.com">princesahu169@gmail.com</a></p>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/91106662/209208806-102c537b-a29b-40eb-905a-91bf387cf67e.gif" width="85%" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+---
 
+## 🛠️ Languages and Tools
 
-  
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
-<h3 align="centre"> Lets Code 📝 </h3> 
+---
 
-<a href="https://www.hackerrank.com/princesahu169?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="PRINCE_21" height="30" width="40" /></a>
-<a href="https://leetcode.com/princesahu169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="PRINCE_21" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/princesahu169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="PRINCE_21" height="30" width="40" /></a>
-</br>
-</br>
-</br>
+## 📝 Coding Platforms
 
-## 🤝 &nbsp;Connect Me !!
+<p align="left">
+  <a href="https://leetcode.com/princesahu169/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>&nbsp;
+  <a href="https://www.hackerrank.com/princesahu169?hr_r=1" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/princesahu169" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Prs0307" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prs0307&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Prince's GitHub Stats" />
+  <img src="https://api.githubtrends.io/user/svg/Prs0307/repos?time_range=one_year&theme=dark" width="48%" alt="GitHub Trends" />
+</p>
 
-<a href="https://www.linkedin.com/in/prince-sahu-432183209/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:princesahu169@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p> 
-<br>
+---
 
-<!---
-  <a href="https://www.instagram.com/princesahu0703/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="PRINCE_21" height="30" width="40" /></a>
-Prs0307/Prs0307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prince-sahu-432183209/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/Prs0307" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <a href="mailto:princesahu169@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
